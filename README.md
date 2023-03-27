@@ -1,6 +1,6 @@
 
 
-#Analyzing Patient Reviews and Ratings for Common Drugs using Power BI
+# Analyzing Patient Reviews and Ratings for Common Drugs using Power BI
 
 This project uses Power BI to analyze patient reviews and ratings for common drugs. The goal of the project is to provide insights into how patients perceive and rate different drugs, as well as identify common themes and issues that arise in their reviews.
 
